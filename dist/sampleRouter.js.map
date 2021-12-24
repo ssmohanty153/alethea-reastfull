@@ -1,0 +1,1 @@
+{"version":3,"file":"sampleRouter.js","sourceRoot":"","sources":["../sampleRouter.ts"],"names":[],"mappings":";;AAEA,MAAM,oBAAoB,GAAG,CAAC,GAAY,EAAE,GAAa,EAAE,IAAkB,EAAE,EAAE;IAC7E,OAAO,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC;QACxB,OAAO,EAAE,kBAAkB;KAC9B,CAAC,CAAC;AACP,CAAC,CAAC;AAEF,kBAAe,EAAE,oBAAoB,EAAE,CAAC"}
